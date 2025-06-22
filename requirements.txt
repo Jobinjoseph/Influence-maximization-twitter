@@ -1,0 +1,3 @@
+mrjob
+networkx
+boto3
