@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 22 07:07:06 2025
-
 @author: joseph
 """
 import boto3
