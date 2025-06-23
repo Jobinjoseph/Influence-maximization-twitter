@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 20 22:47:20 2025
-
 @author: joseph
 """
 
